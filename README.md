@@ -11,7 +11,7 @@
 
 # Screen Shot
 
-[Click Here](https://drive.google.com/file/d/1s3fG4lNIx6JLuI1l_IKpE40ryEcdaC-5/view)
+(![image](https://user-images.githubusercontent.com/95255407/169551866-736c3091-f67a-407d-a974-09536d89c808.png))
 
 # Description
 
