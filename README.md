@@ -11,7 +11,7 @@
 
 # Screen Shot
 
-(![image](https://user-images.githubusercontent.com/95255407/169551866-736c3091-f67a-407d-a974-09536d89c808.png))
+![image](https://user-images.githubusercontent.com/95255407/169551866-736c3091-f67a-407d-a974-09536d89c808.png)
 
 # Description
 
